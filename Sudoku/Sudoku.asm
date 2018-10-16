@@ -1,8 +1,8 @@
-;;;SHAMIM BABUL  
+
 ;; 210
 ;;SUDOKU PUZZLE 
 ;;Vulis
-;;sbabul000@citymail.cuny.edu
+
 ;; added two puzzle with their solution. Most of the codes are not commented well, and it is kinda messy.
 .model small
 .386
