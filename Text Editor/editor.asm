@@ -1,5 +1,4 @@
-;;SHAMIM BABUL
-;;ID 23544468
+
 ;;CSC 210
 ;;TEXT EDITOR
 .model small
